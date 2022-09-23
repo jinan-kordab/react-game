@@ -1,10 +1,18 @@
-<h1>React game of 16</h1>
+<h1>React game - 15 puzzle - <a href="https://en.wikipedia.org/wiki/15_puzzle">Wikipedia article</a></h1>
 
 
 Deployed to Versel here <a href="https://react-game-rdj8.vercel.app/">https://react-game-rdj8.vercel.app/</a>
 
 https://user-images.githubusercontent.com/36752411/191872163-0119f60a-7837-47cd-9b60-88e40ff27be8.mp4
 
+The goal of the game is to arrange the numbers from 1 to 15 starting from top left going right, as such:
+
+<table>
+<tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+<tr><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+<tr><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+<tr><td>13</td><td>14</td><td>15</td><td>&nbsp;</td></tr>
+</table>
 
 <h5>Exercise Requirements:</h5>
 <ul>
