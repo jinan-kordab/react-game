@@ -21,22 +21,22 @@ import {
 
 const MainGrid = (props) => {
   const initialMatrix = [
-    fa2,
-    [fa1, fa2],
-    [fa1, fa3],
-    fa3,
-    fa1,
-    fa4,
-    [fa1, fa0],
     fa9,
+    fa6,
+    fa4,
+    fa8,
     [fa1, fa1],
+    fa3,
+    [fa1, fa5],
+    fa2,
+    fa1,
+    fa5,
+    [fa1, fa2],
+    fa7,
+    [fa1, fa0],
+    [fa1, fa3],
     [fa1, fa4],
     [],
-    [fa1, fa5],
-    fa5,
-    fa6,
-    fa8,
-    fa7,
   ];
   const [matrix, setMatrix] = useState(initialMatrix);
   const [won, setIsWon] = useState(false);
