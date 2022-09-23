@@ -1,7 +1,7 @@
 <h1>React game of 16</h1>
 
 
-
+Deployed to Versel here <a href="https://react-game-rdj8.vercel.app/">https://react-game-rdj8.vercel.app/</a>
 
 https://user-images.githubusercontent.com/36752411/191872163-0119f60a-7837-47cd-9b60-88e40ff27be8.mp4
 
